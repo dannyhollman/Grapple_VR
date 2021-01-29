@@ -3,10 +3,15 @@ Multiplayer VR Shooting Game
 # Features
 - Full VR body!
 ![IK Arms](https://media1.giphy.com/media/WIhXQnOKzzUYssVHrX/giphy.gif "IK Arms")
+
 ![IK Legs](https://media3.giphy.com/media/BSfjjzxByzkJ9PhmpO/giphy.gif "IK Legs")
+
 - Grappling Gun Movement!
+
 ![Grapple Gun](https://media1.giphy.com/media/y9dhX09gxKmxzmX2fV/giphy.gif "Grapple Gun")
+
 - Free-For-All Gamemode!
+
 ![Grapple Gun](https://media0.giphy.com/media/YnuEwZv3jOMoi0jOxT/giphy.gif "Grapple Gun")
 
 # Story
